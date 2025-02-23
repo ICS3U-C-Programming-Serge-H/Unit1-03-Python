@@ -1,12 +1,18 @@
-// Copyright (c) 2021 Ms Raffin All rights reserved.
+// Copyright (c)2025 Serge = All rights reserved.
 // .
-// Created by: Ms Raffin
-// Date: Apr. 22, 2021
+// Created by: Serge
+// Date: Feb. 20 , 2025
 // This program displays "Hello, World with style".
 
 #include <iostream>
 
 int main() {
     std::cout << "Hello, World with style!" << std::endl;
-    std::cout << "C++ is a bit more complicated then Python!" << std::endl;
-}
+
+#include <iostream>
+
+    int main();
+    {
+        std::cout << "Hello, World with style!" << std::endl;
+        std::cout << "C++ is a bit more complicated then Python!" << std::endl;
+    }
